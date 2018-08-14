@@ -1,0 +1,12 @@
+mx\org\ift\bitacora\ws\rest\activity\RegistroEvento.class
+mx\org\ift\bitacora\ws\rest\pool\Processor.class
+mx\org\ift\bitacora\ws\rest\dao\EventoDAO.class
+mx\org\ift\bitacora\ws\rest\dao\impl\EventoDAOImpl.class
+mx\org\ift\bitacora\ws\rest\pool\PoolMessage.class
+mx\org\ift\bitacora\ws\rest\service\EventoService.class
+mx\org\ift\bitacora\ws\rest\connector\Connector.class
+mx\org\ift\bitacora\ws\rest\service\impl\EventoServiceImpl.class
+mx\org\ift\bitacora\ws\rest\vo\EventoVO.class
+mx\org\ift\bitacora\ws\rest\constantes\Constantes.class
+mx\org\ift\bitacora\ws\rest\vo\MessageVO.class
+mx\org\ift\junit\testload\LoadTest.class
